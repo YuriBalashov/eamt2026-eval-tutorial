@@ -98,7 +98,7 @@ segment.
 
 Entirely optional:
 
-- Python 3.10+ if you want to run the optional `scripts/python/` examples. An LLM assistant (Claude, GPT, Gemini) can write and adapt these scripts for you in seconds — you do not need to be a programmer.
+- Python 3.10+ if you want to run the optional `scripts/python/` example. An LLM assistant (Claude, GPT, Gemini) can write and adapt this script for you in seconds, or write other simple scripts — you do not need to be a programmer.
 
 The tutorial materials were prepared with **MATEO** version 1.6:
 
