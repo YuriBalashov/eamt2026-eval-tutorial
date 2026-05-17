@@ -122,7 +122,7 @@ The CLARIN instance has a 1 MB upload limit per file. The evaluation sets in thi
 1. Clone or download this repository.
 2. Pick the language pair you want to work on and download
    `evaluation_sets/<pair>/`.
-3. Open <https://mateo.ivdnt.org> in your browser, navigate to
+3. Open <https://mateo.ivdnt.org> or <https://huggingface.co/spaces/BramVanroy/mateo-demo> in your browser, navigate to
    **Evaluate**.
 4. Upload `reference.txt`, then `system_1.txt` through `system_N.txt`. Upload
    `source.txt` as well — COMET-22 will use it.
