@@ -80,8 +80,7 @@ Each `evaluation_sets/<pair>/` directory contains:
 - `system_1.txt` … `system_4.txt` — outputs from commercial NMT engines and
   open-weight LLMs.
 - `README.md` — the source of the data, line counts, and any
-  language-specific notes (e.g., remember to set the BLEU tokenizer to
-  `ja-mecab` for Japanese or `zh` for Chinese; and TER settings to `asian_support` and `norm`).
+  language-specific notes (setting the BLEU tokenizer to `ja-mecab` for Japanese or `zh` for Chinese; and TER settings for both these languages to `asian_support` and `norm`).
 
 All files are line-aligned: line *N* of every file corresponds to the same
 segment.
