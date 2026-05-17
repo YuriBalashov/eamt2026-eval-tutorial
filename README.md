@@ -14,8 +14,7 @@ examples in Excel and Python, a reading list, and templates you can adapt for yo
 
 The tutorial is aimed at practicing translators and small language-service
 providers. No programming experience is assumed; familiarity with Excel and a
-modern web browser is enough. Sections that go beyond that — primarily the
-optional Python supplements — are clearly flagged.
+modern web browser is enough.
 
 ---
 
