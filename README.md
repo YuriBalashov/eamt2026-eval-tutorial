@@ -209,8 +209,5 @@ for how to teach evaluation methods to working translators.
 
 ## Contact
 
-**Yuri Balashov**
-
-Department of Philosophy & Institute for Artificial Intelligence
-University of Georgia, Athens, GA, USA
-<yuri@uga.edu> · <https://www.yuribalashov.com>
+**Yuri Balashov**, Department of Philosophy & Institute for Artificial Intelligence
+University of Georgia, Athens, GA, USA · <yuri@uga.edu> · <https://www.yuribalashov.com>
