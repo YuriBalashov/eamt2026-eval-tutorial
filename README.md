@@ -103,6 +103,7 @@ segment.
 - The four evaluation-set zip files from this repository, downloaded ahead of
   time.
 - A text editor with explicit UTF-8 support (Notepad++ for Windows, Sublime or a similar app for Mac OS).
+- MATEO evaluation outputs for your chosen set — strongly recommended, see below.
 
 Entirely optional:
 
