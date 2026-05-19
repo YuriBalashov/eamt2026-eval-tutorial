@@ -151,11 +151,11 @@ The CLARIN instance has a 1 MB upload limit per file. The evaluation sets in thi
 `worked_examples/` points to four subdirectories of the [Christopher & Dana Reeve Foundation Multilingual Corpus (RFMC)](https://github.com/YuriBalashov/reeve-mftc) used in
 > Balashov, Yuri, Rex VanHorn, Austin Downes, and Mingxi Xu. 2026. Translation Analytics for Freelancers: II. Benchmarking Local LLMs for Confidential Translation Workflows. In *Proceedings of EAMT 2026*, forthcoming.
 
-Each subdirectory contains two files:
+Each subdirectory there contains two files:
 * `1143_en-{de,ru,ja,zh}_aem.xlsx` — Document-level COMET, BLEU, chrF2, and TER scores along with charts and some Excel calculations for 12 translation outputs (9 local LLMs + 3 baselines) for the corresponding language pair.
 * `1143_en-{de,ru,ja,zh}_outputs-cometscores.xlsx` — All translation outputs aligned at the segment level along with their sentence-level COMET-22 scores and Excel calculations of across-system averages, variances, and standard deviations for 1,143 sentences.
 
-These are intended as templates: replace the data  with your own and the formulas remain valid.
+These are intended  both as examples and as templates: feel free to replace the data with your own and the formulas remain valid.
 
 `worked_examples/300_en-{de,ru,ja,zh}` are reserved for the MATEO outputs for our evaluation sets. These outputs will be provided shortly before the tutorial as a back-up.
 
