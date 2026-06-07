@@ -80,7 +80,7 @@ The session is organized in four parts plus a final Q&A:
 │   ├── 300_en-ru/
 │   ├── 300_en-ja/
 │   └── 300_en-zh/
-├── COMET-human-correlations/   ← addendum with excel calculations for 90-100_en-{de,ru,zh}
+├── COMET-human-correlations/   ← addendum with excel tables for 90-100_en-{de,ru,zh}
 ├── sample script/
 │   └── python/                                ← bootstrap CIs
 └── figures/                                   ← extra charts and diagrams from the deck
