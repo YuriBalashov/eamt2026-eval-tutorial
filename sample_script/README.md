@@ -17,8 +17,10 @@ pip install pandas numpy openpyxl
 Usage:
 
 ```bash
-python python/bootstrap_ci.py /path/to/sentence_level_comet.xlsx
+python python/bootstrap_ci.py 
 ```
+
+This presumes that `sentence_level_comet.xlsx` is in the same working directory.
 
 > **Tip.** Modern LLMs will adapt or extend these scripts on demand.
 > Try a prompt like "modify `bootstrap_ci.py` to also compute Pearson
