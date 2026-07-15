@@ -80,7 +80,6 @@ The session is organized in four parts plus a final Q&A:
 │   ├── 300_en-ru/
 │   ├── 300_en-ja/
 │   └── 300_en-zh/
-├── COMET-human-correlations/   ← addendum with excel tables for 90-100_en-{de,ru,zh}
 ├── sample script/
 │   └── python/                                ← bootstrap CIs
 └── figures/                                   ← extra charts and diagrams from the deck
@@ -149,11 +148,6 @@ The CLARIN instance has a 1 MB upload limit per file. The evaluation sets in thi
 ## MATEO outputs
 
 The four "worst-case scenario" subdirectories in `MATEO_outputs/` are reserved for the MATEO outputs for our evaluation sets. These outputs will be provided shortly before the tutorial as a back-up for those who encounter any issues with the MATEO web interface, for any reason.
-
----
-
-## COMET-human-correlations
-`COMET-human-correlations` contains three additional excel workbooks calculating sentence-level correlations between COMET and human evaluation scores for about 12 outputs x 100 sentences in `en-{de,ru,zh}`. We will do over them if time permits.
 
 ---
 
